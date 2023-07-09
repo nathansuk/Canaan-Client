@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 9fba7c4e305ac8845a04f36af64f006b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gravel_grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43a6eef18032e4aa36a6f48e08ca83
+      internalID: 115881443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae93057d2b35b74db562122af5cf518
+      internalID: -1179641599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8e01bdf609e9409eb7df0c2639232
+      internalID: -881413323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d622556577964d8b7a9c286e0ecd5
+      internalID: -2118962013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e87d1d740c949439146eb06385b6ae
+      internalID: -745914060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbc35f399fd7348829f8f85debf845
+      internalID: -1959904318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 948
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ae92af32fe4748bbd61856b914245
+      internalID: 326465765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaa61227eda90940a1c35e1cbb846f6
+      internalID: -352518488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b323a3b942b2c042826b0ccd40d1362
+      internalID: -1469880648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c193745067fc024c984016cc2bb7ff2
+      internalID: -229303788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc677bd031881d346b2bf711a71a1279
+      internalID: -1421387608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc391c94d1e88e4a865bf0759fde0b8
+      internalID: 1663394185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d181497568764497343b8866793ec
+      internalID: -1809041147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 790
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908768c322fd9114b8050ea8ae4c0c82
+      internalID: -824345974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a20fd15cf650a445ad5b12ffa59df81
+      internalID: -848153143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad6a5bce4fb234587dbfac789d506c
+      internalID: -260776993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d085ad255a722504aa29ef9ccd85c7f0
+      internalID: 808957154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2933ff4153feac4ab2a1e3649ee3cec
+      internalID: -1732328562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864c659f9cff6b4d87d4fea21a4d0a6
+      internalID: 25920319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2416eea920c1f49b8afbd00c556d3a
+      internalID: 847529792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 632
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec65af56092d746bf4debfe1ddfb48
+      internalID: -1383655934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f798856f82c80a42a026c01c8e26945
+      internalID: -1883955765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483d2f4d3aa0a847b03b2645b4ce1db
+      internalID: 129094677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d97d1d013ddd4482fbd704cb08aeb
+      internalID: -561404397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec15417ba4343d41a2e12946b6de2af
+      internalID: -270072573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13dabc5060dfce47abe9c4d80b2bc4c
+      internalID: -1565676942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d9a9a5d204d2418f46c1ddda007db
+      internalID: -392423193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 474
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6f8bf35688ed468001e19eb0acb3b
+      internalID: 1915556285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5d4c734507714090c07636137ca16
+      internalID: -191478394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91e4b638a62f444a99164c4768d998
+      internalID: 2139369513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1223957e08a240a7cc64bfafdc98a
+      internalID: -1333203150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e7d8f98dbf1b40af31587cd967fc1
+      internalID: -358254969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c5062825995349a6537f2e48df65e
+      internalID: 272185180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5256e80c2e0f2b845ae5a5e0396dcebe
+      internalID: 1094301193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 316
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1229f371b0ffc049b11367567ad066e
+      internalID: 1786602133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021afd1d01ec3354cb3fc2e9d6d1541c
+      internalID: 1182331313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0310cd11377eada47a9f2bc8fc916c50
+      internalID: -1009536817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea89386aa6569f48bda9ea903495eda
+      internalID: 1681862647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98498ed3576a9cc43a98cafd5a76387f
+      internalID: 1324775522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edecea34a3fd0714c8e91f7feaf3c937
+      internalID: 1471704942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5567d5628c48c3b4ebe402f5dddde54e
+      internalID: 380833378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 158
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c5dcc7df64f843ada2e8407e12e06
+      internalID: -775705002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721d3b346a0c8f2499d942adc79efc6e
+      internalID: -324430116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9370dde62d4ae4b4985ec3f67ed44b65
+      internalID: -1112645443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa30b1b81ba117498a02237b7469cde
+      internalID: -810245820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff85bbda091ed34398491643aae1a17
+      internalID: 1245654882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcbaf9ed99e55c47b33a1d43a02991b
+      internalID: 1235439724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd38384fa327046a204a7e44814c66
+      internalID: -1467424711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravel_grass_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072fdc24b1008004698df3d9bdbf1450
+      internalID: -150372034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gravel_grass_41: -775705002
+      gravel_grass_11: 1663394185
+      gravel_grass_44: -810245820
+      gravel_grass_21: -1883955765
+      gravel_grass_26: -392423193
+      gravel_grass_23: -561404397
+      gravel_grass_28: -191478394
+      gravel_grass_45: 1245654882
+      gravel_grass_5: -1959904318
+      gravel_grass_8: -1469880648
+      gravel_grass_16: 808957154
+      gravel_grass_18: 25920319
+      gravel_grass_7: -352518488
+      gravel_grass_10: -1421387608
+      gravel_grass_13: -824345974
+      gravel_grass_19: 847529792
+      gravel_grass_14: -848153143
+      gravel_grass_43: -1112645443
+      gravel_grass_46: 1235439724
+      gravel_grass_0: 115881443
+      gravel_grass_25: -1565676942
+      gravel_grass_2: -881413323
+      gravel_grass_48: -150372034
+      gravel_grass_34: 1786602133
+      gravel_grass_40: 380833378
+      gravel_grass_33: 1094301193
+      gravel_grass_15: -260776993
+      gravel_grass_29: 2139369513
+      gravel_grass_6: 326465765
+      gravel_grass_36: -1009536817
+      gravel_grass_22: 129094677
+      gravel_grass_32: 272185180
+      gravel_grass_24: -270072573
+      gravel_grass_1: -1179641599
+      gravel_grass_38: 1324775522
+      gravel_grass_31: -358254969
+      gravel_grass_42: -324430116
+      gravel_grass_9: -229303788
+      gravel_grass_35: 1182331313
+      gravel_grass_37: 1681862647
+      gravel_grass_39: 1471704942
+      gravel_grass_4: -745914060
+      gravel_grass_17: -1732328562
+      gravel_grass_20: -1383655934
+      gravel_grass_3: -2118962013
+      gravel_grass_47: -1467424711
+      gravel_grass_12: -1809041147
+      gravel_grass_30: -1333203150
+      gravel_grass_27: 1915556285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
